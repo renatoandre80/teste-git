@@ -1,2 +1,4 @@
 Alteração de arquivo teste git
+- Ajuste ....
+
 
